@@ -10,9 +10,10 @@ body {
   padding: 60px;
   text-align: center;
   background-image: url(/img/map\ header.jpg);
-  opacity: .4;
+  opacity: .7;
   color: white;
   font-size: 30px;
+  font-family: 'Lobster', cursive;
 }
 
 
